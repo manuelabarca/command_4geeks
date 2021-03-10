@@ -27,6 +27,8 @@ pip install foobar
 ```python
 import foobar
 
+Gilbert estuvo aquí...
+
 foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
