@@ -5,6 +5,9 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## New entry from Shmaither
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -28,5 +31,17 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+Rrouss was here!!
+
+
+=======
+Sergio's practice
+
+---THIS IS GINETH'S CHANGE :)
+
