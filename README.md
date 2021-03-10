@@ -2,6 +2,8 @@
 
 Foobar is a Python library for dealing with word pluralization.
 
+Litzy added comment. 
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
@@ -30,16 +32,30 @@ In that way you are going to be able to maintein the order.
 Please make sure to update tests as appropriate.
 
 
+## Cambio Diego
+Este es mi Cambio 2
+develop
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
 Hola estoy probando los comandos xD
+
+
+
+This is Leisy
 
 Rrouss was here!!
 
+
+Rrouss was here!!
+
+
 Sergio's practice
+
 
 ---THIS IS GINETH'S CHANGE :)
 
